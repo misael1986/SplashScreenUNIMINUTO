@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome_text">"Bienvenido despues del Splash"</string>
+    <string name="app_name">"Splash Screen UNIMINUTO"</string>
+    <string name="imagebutton_text">"Texto descriptivo de la imagen por si acaso"</string>
+</resources>

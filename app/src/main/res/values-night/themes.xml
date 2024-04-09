@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SplashScreenUNIMINUTO" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+    <!-- NUESTRO TEMA PARA SPLASH -->
+    <style name="Theme.SplashScreenUNIMINUTO" parent="Base.Theme.SplashScreenUNIMINUTO" >
+        <item name="windowSplashScreenBackground">@color/azul</item><!-- COLOR QUE ELEGIMOS PARA SPLASH -->
+        <item name="windowSplashScreenAnimatedIcon">@drawable/uniminuto_logo</item><!-- LOGO QUE CARGAMOS PARA SPLASH -->
+        <item name="windowSplashScreenAnimationDuration">300</item><!-- TIEMPO DE DURACION DE LA ANIMACION DEL SPLASH -->
+        <item name="postSplashScreenTheme">@style/Base.Theme.SplashScreenUNIMINUTO</item><!-- NUESTRO TEMA PARA SPLASH -->
+    </style>
+
+    <!-- ACA TERMINA SPLASH THEME -->
+
+
+
+</resources>
